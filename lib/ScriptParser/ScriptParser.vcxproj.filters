@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="tree_sitter">
+      <UniqueIdentifier>{ad0031bd-73b8-4ab6-bc43-5ff8baf3f5a6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tree_sitter\parser.h">
+      <Filter>tree_sitter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

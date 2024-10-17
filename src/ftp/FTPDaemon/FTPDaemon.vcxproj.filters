@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Command">
+      <UniqueIdentifier>{c9220e76-3836-45c2-88a9-b459b925c609}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Socket">
+      <UniqueIdentifier>{7ff0af58-1700-458e-8b64-8f2e87dcec6b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Socket\DataChannel.hpp">
+      <Filter>Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket\DataHandler.hpp">
+      <Filter>Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DefineResponseCode.hpp">
+      <Filter>Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\FTPCommand.hpp">
+      <Filter>Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\CommandBuilder.hpp">
+      <Filter>Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DefineCommand.hpp">
+      <Filter>Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DefineDescription.hpp">
+      <Filter>Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DefineMessage.hpp">
+      <Filter>Command</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerState.hpp" />
+    <ClInclude Include="FTP.hpp" />
+    <ClInclude Include="FTPCommon.hpp" />
+    <ClInclude Include="FTPProxyServer.hpp" />
+    <ClInclude Include="FTPStrategy.hpp" />
+    <ClInclude Include="ObjectManager.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Socket\DataHandler.cpp">
+      <Filter>Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket\DataChannel.cpp">
+      <Filter>Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="Command\FTPCommand.cpp">
+      <Filter>Command</Filter>
+    </ClCompile>
+    <ClCompile Include="Command\CommandBuilder.cpp">
+      <Filter>Command</Filter>
+    </ClCompile>
+    <ClCompile Include="FTP.cpp" />
+    <ClCompile Include="FTPCommon.cpp" />
+    <ClCompile Include="FTPProxyServer.cpp" />
+    <ClCompile Include="FTPStrategy.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ObjectManager.cpp" />
+    <ClCompile Include="ServerState.cpp" />
+  </ItemGroup>
+</Project>

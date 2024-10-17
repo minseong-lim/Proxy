@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanssak\\Desktop\\hssrc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65F7E10-4D74-402F-AA99-0E0167D7B437}|src\\rdp\\ProxyHandler\\ProxyHandler.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\rdp\\ProxyHandler\\ProxyThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D65F7E10-4D74-402F-AA99-0E0167D7B437}|src\\rdp\\ProxyHandler\\ProxyHandler.vcxproj|solutionrelative:src\\rdp\\ProxyHandler\\ProxyThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65F7E10-4D74-402F-AA99-0E0167D7B437}|src\\rdp\\ProxyHandler\\ProxyHandler.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\rdp\\ProxyHandler\\ProxyThread.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D65F7E10-4D74-402F-AA99-0E0167D7B437}|src\\rdp\\ProxyHandler\\ProxyHandler.vcxproj|solutionrelative:src\\rdp\\ProxyHandler\\ProxyThread.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ServerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\ServerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ServerState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\ServerState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ObjectManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\ObjectManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTPStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPStrategy.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTPStrategy.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPProxyServer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTPProxyServer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPProxyServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTPProxyServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPCommon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTPCommon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTPCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTP.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB0529B8-0CE1-44A7-93BD-BD3BEDDC241B}|src\\ftp\\FTPDaemon\\FTPDaemon.vcxproj|solutionrelative:src\\ftp\\FTPDaemon\\FTP.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\x86_64-redhat-linux\\bits\\gthr-default.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\invoke.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_thread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\Desktop\\hssrc\\README||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\stdlib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\Desktop\\hssrc\\lib\\HSThreadPool\\ThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\HSThreadPool\\ThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanssak\\Desktop\\hssrc\\lib\\HSThreadPool\\ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\HSThreadPool\\ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProxyThread.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\rdp\\ProxyHandler\\ProxyThread.cpp",
+              "RelativeDocumentMoniker": "src\\rdp\\ProxyHandler\\ProxyThread.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\rdp\\ProxyHandler\\ProxyThread.cpp",
+              "RelativeToolTip": "src\\rdp\\ProxyHandler\\ProxyThread.cpp",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAEwBAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:08:48.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProxyThread.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\rdp\\ProxyHandler\\ProxyThread.hpp",
+              "RelativeDocumentMoniker": "src\\rdp\\ProxyHandler\\ProxyThread.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\rdp\\ProxyHandler\\ProxyThread.hpp",
+              "RelativeToolTip": "src\\rdp\\ProxyHandler\\ProxyThread.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T01:08:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\main.cpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\main.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\main.cpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\main.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:04:44.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectManager.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ObjectManager.cpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\ObjectManager.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ObjectManager.cpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\ObjectManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:05:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectManager.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ObjectManager.hpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\ObjectManager.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ObjectManager.hpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\ObjectManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T01:05:22.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerState.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ServerState.hpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\ServerState.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ServerState.hpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\ServerState.hpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T01:04:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerState.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ServerState.cpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\ServerState.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\ServerState.cpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\ServerState.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:05:00.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FTPStrategy.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPStrategy.cpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTPStrategy.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPStrategy.cpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTPStrategy.cpp",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAAAHoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:06:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FTPStrategy.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPStrategy.hpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTPStrategy.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPStrategy.hpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTPStrategy.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T01:06:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FTPProxyServer.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPProxyServer.hpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTPProxyServer.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPProxyServer.hpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTPProxyServer.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T01:06:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FTPProxyServer.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPProxyServer.cpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTPProxyServer.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPProxyServer.cpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTPProxyServer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:06:38.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FTPCommon.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPCommon.hpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTPCommon.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPCommon.hpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTPCommon.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T01:06:31.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FTPCommon.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPCommon.cpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTPCommon.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTPCommon.cpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTPCommon.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:06:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FTP.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTP.cpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTP.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTP.cpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTP.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T01:06:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FTP.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTP.hpp",
+              "RelativeDocumentMoniker": "src\\ftp\\FTPDaemon\\FTP.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\src\\ftp\\FTPDaemon\\FTP.hpp",
+              "RelativeToolTip": "src\\ftp\\FTPDaemon\\FTP.hpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T01:06:01.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThreadPool.hpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\lib\\HSThreadPool\\ThreadPool.hpp",
+              "RelativeDocumentMoniker": "lib\\HSThreadPool\\ThreadPool.hpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\lib\\HSThreadPool\\ThreadPool.hpp",
+              "RelativeToolTip": "lib\\HSThreadPool\\ThreadPool.hpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T00:19:01.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThreadPool.cpp",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\lib\\HSThreadPool\\ThreadPool.cpp",
+              "RelativeDocumentMoniker": "lib\\HSThreadPool\\ThreadPool.cpp",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\lib\\HSThreadPool\\ThreadPool.cpp",
+              "RelativeToolTip": "lib\\HSThreadPool\\ThreadPool.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T00:19:13.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gthr-default.h",
+              "DocumentMoniker": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\x86_64-redhat-linux\\bits\\gthr-default.h",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\x86_64-redhat-linux\\bits\\gthr-default.h",
+              "ToolTip": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\x86_64-redhat-linux\\bits\\gthr-default.h",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\x86_64-redhat-linux\\bits\\gthr-default.h",
+              "ViewState": "AgIAAFUDAAAAAAAAAAAswGADAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T05:53:19.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "invoke.h",
+              "DocumentMoniker": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\invoke.h",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\invoke.h",
+              "ToolTip": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\invoke.h",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\invoke.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T06:46:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "std_thread.h",
+              "DocumentMoniker": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_thread.h",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_thread.h",
+              "ToolTip": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_thread.h",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_thread.h",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAAwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T06:46:14.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "std_function.h",
+              "DocumentMoniker": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_function.h",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_function.h",
+              "ToolTip": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_function.h",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\c\u002B\u002B\\11\\bits\\std_function.h",
+              "ViewState": "AgIAAEECAAAAAAAAAAAAwE0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T06:46:10.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "stdlib.h",
+              "DocumentMoniker": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\stdlib.h",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\stdlib.h",
+              "ToolTip": "C:\\Users\\hanssak\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\stdlib.h",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Microsoft\\Linux\\HeaderCache\\1.0\\1668342267\\usr\\include\\stdlib.h",
+              "ViewState": "AgIAAA8DAAAAAAAAAAAlwBwDAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T05:50:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "README",
+              "DocumentMoniker": "C:\\Users\\hanssak\\Desktop\\hssrc\\README",
+              "RelativeDocumentMoniker": "README",
+              "ToolTip": "C:\\Users\\hanssak\\Desktop\\hssrc\\README",
+              "RelativeToolTip": "README",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-22T07:21:28.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
